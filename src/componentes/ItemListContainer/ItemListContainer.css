@@ -1,0 +1,6 @@
+/* Estilos personalizados para el componente ItemListContainer */
+.titulo {
+    text-align: center;
+    min-height: 100vh;
+    color: #000dff;
+  }
