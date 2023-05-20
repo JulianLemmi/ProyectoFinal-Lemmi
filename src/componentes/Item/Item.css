@@ -1,0 +1,58 @@
+.cardProducto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+    width: 300px;
+    margin: 10px;
+  }
+  
+  .cardProducto:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .imgProducto {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .productoInfo {
+    text-align: center;
+  }
+  
+  .productoNombre {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .productoPrecio {
+    font-size: 14px;
+    color: #888;
+  }
+  
+  .productoID {
+    font-size: 14px;
+    color: #888;
+    margin-bottom: 10px;
+  }
+  
+  .productoButton {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .productoButton:hover {
+    background-color: #45a049;
+  }
+  

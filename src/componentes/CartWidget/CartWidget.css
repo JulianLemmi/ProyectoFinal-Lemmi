@@ -1,0 +1,11 @@
+/* CartWidget */
+.cart-widget {
+    display: flex;
+    align-items: center;
+}
+
+.cart-icon {
+    width: 32px;
+    height: auto;
+    margin-right: 0.5rem;
+}
