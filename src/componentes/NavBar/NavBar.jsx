@@ -3,7 +3,7 @@ import CartWidget from '../CartWidget/CartWidget';
 import { Link, NavLink } from 'react-router-dom';
 
 const NavBar = () => {
-  const imgLogo = "../src/assets/Powergy_logo.png";
+  const imgLogo = "https://i.ibb.co/0c3d3n6/Powergy-logo.png";
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container">
